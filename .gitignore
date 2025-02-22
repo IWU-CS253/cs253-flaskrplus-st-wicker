@@ -1,2 +1,5 @@
-# Ignore the database (after having created entries table)
+# Ignore the database
 flaskr.db
+
+# Ignore all .pyc files
+*.pyc
