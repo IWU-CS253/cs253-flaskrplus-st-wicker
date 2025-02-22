@@ -1,0 +1,2 @@
+# Ignore the database (after having created entries table)
+flaskr.db
